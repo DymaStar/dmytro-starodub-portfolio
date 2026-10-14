@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1838 >>
+stream
+0.08 0.39 0.40 rg 0 772 595 70 re f
+1 1 1 rg BT /F2 18 Tf 46 800 Td (Data Analytics & Engineering) Tj ET
+0.83 0.95 0.94 rg BT /F1 9 Tf 46 781 Td (Professional training | Deutsche Tech Akademie / Lex Labs UG) Tj ET
+0.08 0.39 0.40 rg BT /F2 11 Tf 46 741 Td (Credential details) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 719 Td (Holder: Dmytro Starodub) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 700 Td (Provider: Deutsche Tech Akademie \(Lex Labs UG\), Berlin) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 681 Td (Completed: 31 July 2026 | Duration: 800 instructional hours) Tj ET
+0.08 0.39 0.40 rg BT /F2 11 Tf 46 650 Td (Training scope) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 628 Td (Python for data analytics and data engineering; SQL and database modeling.) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 609 Td (Data structures, ETL, data warehousing and preparation.) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 590 Td (Statistics, A/B testing, BI dashboards and Tableau.) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 571 Td (Machine learning, model validation, generative AI, LLMs and AI agents.) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 552 Td (Practical capstone project and project presentation.) Tj ET
+0.08 0.39 0.40 rg BT /F2 11 Tf 46 521 Td (Evidence) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 499 Td (This summary is based on the completion certificate included in the private) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 484 Td (credential collection.) Tj ET
+0.12 0.19 0.21 rg BT /F1 10 Tf 49 465 Td (Original signed certificate can be supplied to an employer upon request.) Tj ET
+0.93 0.96 0.96 rg 0 38 595 42 re f
+0.30 0.39 0.40 rg BT /F1 8 Tf 46 60 Td (Public portfolio summary only - NOT an original issued document.) Tj ET
+0.30 0.39 0.40 rg BT /F1 8 Tf 46 48 Td (Original credential and identity verification are available directly on request.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2285
+%%EOF
