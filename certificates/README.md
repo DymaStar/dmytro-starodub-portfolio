@@ -1,13 +1,12 @@
-# Public certificate and qualification overviews
+# Redacted public copies of original credentials
 
-These public PDF files are **portfolio summaries**, not copies of officially issued certificates.
-They are transcribed from the owner's private credentials and intentionally omit dates of birth,
-unique document/registration numbers, verification QR codes and other sensitive personal data.
+The three PDFs contain the visual layout of the original issued documents with a limited number of personal or verification fields permanently masked.
+They are **privacy-redacted public copies**, not the original issued electronic PDFs.
 
-- **01_Data_Analytics_Engineering_Public_Overview.pdf** - completed 800-hour course, July 2026.
-- **03_German_B1_Public_Overview.pdf** - B1 German exam, 2024.
-- **04_ZAB_Qualification_Public_Overview.pdf** - German assessment of engineering studies, July 2025.
+- `01_Data_Analytics_Engineering_Public_Overview.pdf` - DTA certificate, identification number covered.
+- `03_German_B1_Public_Overview.pdf` - original DTZ certificate, birth date, participant number and verification QR covered.
+- `04_ZAB_Qualification_Public_Overview.pdf` - original ZAB assessment, birth date/place, registration and diploma number, digital seal and QR codes covered.
 
-The complete original training report, issued language certificate, digitally signed ZAB assessment,
-university diplomas and supplements are **private**. Request them directly from the candidate.
-Do not upload the original scans to this public GitHub repository without a separate privacy review.
+**Important:** The official digital signature and verification data of the ZAB original are not retained in this redacted public copy. Anyone requiring an officially verifiable record should request the unchanged original from Dmytro Starodub privately. Public posting of the unchanged original is not advised.
+
+Only these three public files are intended for the public repository. Keep the other diploma scans and academic supplements private unless separately reviewed/redacted.
